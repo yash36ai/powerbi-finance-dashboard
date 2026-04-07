@@ -1,4 +1,3 @@
-Dashboard Screenshot .png
 # 📊 Power BI Finance Dashboard
 
 ## 📌 Overview
