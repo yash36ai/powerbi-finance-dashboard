@@ -55,7 +55,7 @@ It provides insights into **sales, profit, and product performance**, helping us
 
 ## 👤 Author
 
-Your Name
+Yash Jambhulkar
 
 ---
 
